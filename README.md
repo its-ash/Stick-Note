@@ -1,6 +1,6 @@
 
 
-![Image](https://github.com/its-ash/Stick-Note/blob/master/dist/stick_note.png)
+![Image](https://raw.githubusercontent.com/its-ash/Stick-Note/master/dist/stick_note.png)
 
 # Stick Note With Vue
 
