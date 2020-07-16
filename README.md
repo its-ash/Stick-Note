@@ -1,4 +1,10 @@
-# stick_notes
+
+
+![](/home/ash/Downloads/stick_note.png)
+
+# stick_notes With Vue
+
+> no back-end need 
 
 ## Project setup
 ```
