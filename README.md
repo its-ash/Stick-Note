@@ -1,8 +1,8 @@
 
 
-![](/home/ash/Downloads/stick_note.png)
+![Image](/home/ash/Downloads/stick_note.png)
 
-# stick_notes With Vue
+# Stick Note With Vue
 
 > no back-end need 
 
