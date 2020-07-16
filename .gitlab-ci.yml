@@ -7,8 +7,8 @@ image: node:latest
 cache:
   paths:
     - node_modules/
-
-test_async:
+    
+build:
   script:
     - npm install
     - npm build
